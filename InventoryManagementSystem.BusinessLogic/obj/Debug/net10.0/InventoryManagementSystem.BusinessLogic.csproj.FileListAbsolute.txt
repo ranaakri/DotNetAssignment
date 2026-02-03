@@ -1,0 +1,17 @@
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.BusinessLogic.deps.json
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.BusinessLogic.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.BusinessLogic.pdb
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.DataAccess.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.Entities.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.DataAccess.pdb
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\bin\Debug\net10.0\InventoryManagementSystem.Entities.pdb
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.AssemblyInfo.cs
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\Inventor.35E7F53F.Up2Date
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\refint\InventoryManagementSystem.BusinessLogic.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\InventoryManagementSystem.BusinessLogic.pdb
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.BusinessLogic\obj\Debug\net10.0\ref\InventoryManagementSystem.BusinessLogic.dll

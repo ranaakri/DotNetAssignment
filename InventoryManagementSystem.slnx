@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="InventoryManagementSystem.BusinessLogic/InventoryManagementSystem.BusinessLogic.csproj" />
+  <Project Path="InventoryManagementSystem.DataAccess/InventoryManagementSystem.DataAccess.csproj" />
+  <Project Path="InventoryManagementSystem.Entities/InventoryManagementSystem.Entities.csproj" />
+  <Project Path="InventoryManagementSystem.Web/InventoryManagementSystem.Web.csproj" />
+</Solution>

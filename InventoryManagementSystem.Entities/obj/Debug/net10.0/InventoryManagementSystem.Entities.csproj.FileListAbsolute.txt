@@ -1,0 +1,11 @@
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\bin\Debug\net10.0\InventoryManagementSystem.Entities.deps.json
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\bin\Debug\net10.0\InventoryManagementSystem.Entities.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\bin\Debug\net10.0\InventoryManagementSystem.Entities.pdb
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\InventoryManagementSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\InventoryManagementSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\InventoryManagementSystem.Entities.AssemblyInfo.cs
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\InventoryManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\InventoryManagementSystem.Entities.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\refint\InventoryManagementSystem.Entities.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\InventoryManagementSystem.Entities.pdb
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Entities\obj\Debug\net10.0\ref\InventoryManagementSystem.Entities.dll
