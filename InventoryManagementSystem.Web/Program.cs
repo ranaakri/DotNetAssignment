@@ -1,5 +1,6 @@
 using InventoryManagementSystem.BusinessLogic.Services;
-using InventoryManagementSystem.DataAccess;
+using InventoryManagementSystem.DataAccess.Context;
+using InventoryManagementSystem.DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
 using System;
 
@@ -7,11 +8,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDataAccessServices(builder.Configuration.GetConnectionString("DefaultConnection"));
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<IProductRepo, ProductRepo>();
+builder.Services.AddScoped<ILogRepo, LogRepo>();
+
 builder.Services.AddScoped<IProductService, ProductServices>();
 builder.Services.AddScoped<ILogservice, LogService>();
 
-// Add services to the container.
 builder.Services.AddRazorPages();
 
 var app = builder.Build();

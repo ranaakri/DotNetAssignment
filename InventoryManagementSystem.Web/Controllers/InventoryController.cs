@@ -16,11 +16,10 @@ namespace InventoryManagementSystem.Web.Controllers
             _productService = productService;
         }
 
-        //[HttpGet]
-        //public IActionResult Get()
-        //{
-        //    var data = _productService.GetAllProductsAsync();
-        //    return View(data);
-        //}
+        public IActionResult ListProduct()
+        {
+            //var data = _productService.GetAllProductsAsync();
+            return View();
+        }
     }
 }

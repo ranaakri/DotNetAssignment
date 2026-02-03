@@ -12,7 +12,7 @@ namespace InventoryManagementSystem.BusinessLogic.Services
         public Task<Product> GetProductByIdAsync(int id);
         public Task InsertProductAsync(Product product);
         public Task<Product> UpdateProductAsync(Product product);
-        public Task DeleteProductAsync(int id);
+        public Task<int> GetTotalProductAsync();
     }
     public class ProductServices : IProductService
     {
@@ -49,6 +49,11 @@ namespace InventoryManagementSystem.BusinessLogic.Services
                 Action = "Inesrt",
                 ActionTime = DateTime.UtcNow 
             });
+        }
+
+        public async Task<int> GetTotalProductAsync()
+        {
+            return await _service.GetTotalProduct();
         }
 
         public async Task<Product> UpdateProductAsync(Product product)

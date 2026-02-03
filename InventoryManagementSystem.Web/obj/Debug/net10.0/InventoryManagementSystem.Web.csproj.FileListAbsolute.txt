@@ -229,3 +229,4 @@ C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\Inventor
 C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Web\obj\Debug\net10.0\InventoryManagementSystem.Web.pdb
 C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Web\obj\Debug\net10.0\InventoryManagementSystem.Web.genruntimeconfig.cache
 C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Web\obj\Debug\net10.0\ref\InventoryManagementSystem.Web.dll
+C:\Users\ranaakri\OneDrive - Roima Intelligence Inc\Desktop\Krish\Day12\InventoryManagementSystem\InventoryManagementSystem.Web\obj\Debug\net10.0\InventoryManagementSystem.Web.sourcelink.json

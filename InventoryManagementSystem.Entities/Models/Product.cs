@@ -6,6 +6,13 @@ namespace InventoryManagementSystem.Entities.Models
 {
     public class Product
     {
+        public Product()
+        {
+            EntryTime = DateTime.UtcNow;
+            LastUpdated = DateTime.UtcNow;
+            Logs = new List<LogTable>();
+        }
+
         public int Id { get; set; }
         public string ProductName { get; set; } = null!;
         public string Category { get; set; } = null!;

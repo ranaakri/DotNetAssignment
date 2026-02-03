@@ -13,9 +13,15 @@ namespace InventoryManagementSystem.DataAccess.Repository
         public Task InsertLog(LogTable log);
        
     }
-    internal class LogRepo : ILogRepo
+    public class LogRepo : ILogRepo
     {
-        private AppDbContext _appDbContext;
+        private readonly AppDbContext _appDbContext;
+
+        public LogRepo(AppDbContext appDbContext)
+        {
+            _appDbContext = appDbContext;
+        }
+
         public async Task<IEnumerable<LogTable>> GetLogs()
         {
             return await _appDbContext.LogsTable.ToListAsync();

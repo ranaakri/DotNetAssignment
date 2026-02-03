@@ -7,10 +7,9 @@ using System.Text;
 
 namespace InventoryManagementSystem.DataAccess.Context
 {
-    internal class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {
-
 
         }
 

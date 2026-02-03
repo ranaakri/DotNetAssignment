@@ -1,0 +1,42 @@
+﻿@model IEnumerable<InventoryManagementSystem.Entities.Models.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>Product List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.ProductName)</th>
+            <th>@Html.DisplayNameFor(model => model.Quentity)</th>
+            <th>@Html.DisplayNameFor(model => model.EntryTime)</th>
+            <th>@Html.DisplayNameFor(model => model.LastUpdated)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Quentity)</td>
+                <td>@Html.DisplayFor(modelItem => item.EntryTime)</td>
+                <td>@Html.DisplayFor(modelItem => item.LastUpdated)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<hr />
+<h2>Partial View</h2>
+@foreach(var item in Model)
+{
+    <partial name="_ProductCard" model="item" />
+}

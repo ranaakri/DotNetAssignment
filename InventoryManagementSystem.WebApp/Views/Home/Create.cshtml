@@ -1,0 +1,32 @@
+﻿InventoryManagementSystem.WebApp\Views\Home\Create.cshtml
+@model InventoryManagementSystem.Entities.Models.Product
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<h2>Create Product</h2>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div>
+        <label asp-for="ProductName"></label>
+        <input asp-for="ProductName" class="form-control" />
+        <span asp-validation-for="ProductName" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Quentity">Quantity</label>
+        <input asp-for="Quentity" class="form-control" />
+        <span asp-validation-for="Quentity" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Category"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
